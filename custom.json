@@ -3,7 +3,7 @@
   "rules": [
     {
       "domain": [
-        "down.sunup.eu.org",
+        
         "upos-bstar1-mirrorakam.akamaized.net"
       ],
       "domain_suffix": [
