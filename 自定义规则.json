@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com",
+        "upos-bstar1-mirrorakam.akamaized.net"
+      ],
+      "domain_suffix": [
+        "sunup.eu.org",
+        "yo9.com"
+      ]
+    }
+  ]
+}
